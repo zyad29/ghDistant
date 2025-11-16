@@ -1,5 +1,6 @@
 Algo Helloworld {
     fonction principale {
+        Modif en ligne Github
         // Création de la fenetre
         Créer une fenetre de titre HELLO_WORLD
         Mettre la dimension à 200, 200
