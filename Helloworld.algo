@@ -8,6 +8,7 @@ Algo Helloworld {
         Configurer la couleur de fond en vert
         // Création du label de texte
         Créer un label avec du texte centré et contenant le texte HELLO_WORLD
+        Changement de taille
         Changer la couleur de fond en cyan
         Créer la couleur jaune
         Mettre la couleur jaune sur le label
