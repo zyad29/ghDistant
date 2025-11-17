@@ -9,6 +9,7 @@ Algo Helloworld {
         // Création du label de texte
         Créer un label avec du texte centré et contenant le texte HELLO_WORLD
         Ajout de label de date et changement de taille
+        Changement de taille
         Changer la couleur de fond en cyan
         Créer la couleur jaune
         Mettre la couleur jaune sur le label
